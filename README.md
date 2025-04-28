@@ -23,3 +23,5 @@ One challenge I faced was managing SMS permission handling based on different An
 Key Success Areas
 
 I was particularly successful in demonstrating my skills in SQLite database integration and CRUD functionality. Setting up a reliable, efficient database allowed for smooth data management, and the user-friendly UI ensured that these operations felt seamless to the end-user.
+
+[Project Three Dylan Vidal.zip](https://github.com/user-attachments/files/19935297/Project.Three.Dylan.Vidal.zip)
